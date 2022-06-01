@@ -1,5 +1,5 @@
-## Interface: 90200
-## Version: 1.0.3
+## Interface: 90205
+## Version: 1.0.4
 ## Title:|cffffffffOld School Runescape|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!
@@ -7,6 +7,8 @@
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/OSRSLU
 ## X-Curse-Project-ID: 594575
+## X-Tukui-ProjectID: 232
+## X-Wago-ID: WL6JxyGv
 ## X-WoWI-ID: 26260
 
 main.lua
