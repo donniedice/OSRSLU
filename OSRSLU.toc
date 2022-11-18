@@ -1,6 +1,6 @@
-## Interface: 100000
-## Version: 1.0.5
-## Title:|cffffffffOld School Runescape|r Level Up!
+## Interface: 100002
+## Version: 1.0.6
+## Title:|cff767778Old School Runescape|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!
 
