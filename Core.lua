@@ -1,4 +1,4 @@
--- v1.0.8
+-- v1.0.9
 
 -- Event function for playing sound on level up
 -- Registers an event for when the player levels up and plays a sound file when the event is triggered.
